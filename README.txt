@@ -1,1 +1,1 @@
-Upload all files to GitHub Pages.
+Upload all files to GitHub.
